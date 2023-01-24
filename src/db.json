@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "REACT",
+        "feed": "Some REACT keywords..."
+    },
+    {
+        "id": 2,
+        "title": "ES6",
+        "feed": "Some ES6 keywords..."
+    },
+    {
+        "id": 3,
+        "title": "Java",
+        "feed": "Some Java keywords..."
+    }        
+]
